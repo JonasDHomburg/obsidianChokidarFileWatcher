@@ -1,9 +1,9 @@
 {
-	"id": "filewatch_ts",
-	"name": "filewatch_ts",
-	"version": "1.0.0",
+	"id": "FileChangeWithChokidar",
+	"name": "FileChangeWithChokidar",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "watch file changes",
-	"author": "JDH",
-	"isDesktopOnly": false
+	"description": "Watch file changes on network drives which do not emit FileChangeNotifications.",
+	"author": "JonasDHomburg",
+	"isDesktopOnly": true
 }
